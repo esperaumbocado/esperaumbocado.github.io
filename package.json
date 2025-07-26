@@ -1,0 +1,23 @@
+{
+  "name": "esperaumbocado.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio of Rui Borges",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esperaumbocado/esperaumbocado.github.io.git"
+  },
+  "author": "Rui Borges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esperaumbocado/esperaumbocado.github.io/issues"
+  },
+  "homepage": "https://github.com/esperaumbocado/esperaumbocado.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
